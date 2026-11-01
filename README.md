@@ -3,7 +3,6 @@
 - 🔭 I’m currently working as Supervisor Treasury and Funding Management
 - 🌱 I’m currently learning Treasury Management and Budgeting
 - 👯 I’m looking to collaborate as Treasury, Financial Accounting and Tax, Planning & Budgeting
-- 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: Lukman9770@gmail.com
 
@@ -62,8 +61,6 @@ company SOP and SHE policy. Including Manage GR or issuance activities at SPBKB.
    - Sertification Administrative – PT. sintekindo (2016) dengan nilai 86,5/100
 
 ## Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/
-lukmanul-hakim-9103a9146#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/
-lukmanul-hakim-9103a9146#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lukmanul-hakim-9103a9146#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lukmanul-hakim-9103a9146#gh-dark-mode-only)
 
