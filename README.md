@@ -62,4 +62,8 @@ company SOP and SHE policy. Including Manage GR or issuance activities at SPBKB.
    - Sertification Administrative – PT. sintekindo (2016) dengan nilai 86,5/100
 
 ## Connect with me:
-[![website](./img/linkedin-light.svg)]([https://www.linkedin.com/in/vincentwidyan](https://www.linkedin.com/in/lukmanul-hakim-9103a9146?utm_source=share_via&utm_content=profile&utm_medium=member_android)#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/
+lukmanul-hakim-9103a9146#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/
+lukmanul-hakim-9103a9146#gh-dark-mode-only)
+
