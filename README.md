@@ -11,7 +11,6 @@
 - GPA: 3.04/4.00 Dean’s List 2017 – 2021 Predicate High Merit (Sangat Memuaskan).
 - Thesis : “Analys The Effect Of The Application Of Green Accounting And Environmental Performance On Profitability Company”.
 - Journal Internaional (scopus) : “For The Better Future ; The Green Movement And Indonesia Manufacturng Sector Performance”
-#### 2. [SMK Nurul Hikmah] | Administrasi Perkantoran & Management | Bogor `2013-2016`
 
 ## Work Experience:
 #### 1. [PT Prima Armada Raya (PERTAMINA GROUP)](https://www.par.co.id) | Supervisor Treasury & Funding | Jakarta `28 August'2024 - Now`
@@ -61,6 +60,6 @@ company SOP and SHE policy. Including Manage GR or issuance activities at SPBKB.
    - Sertification Administrative – PT. sintekindo (2016) dengan nilai 86,5/100
 
 ## Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lukmanul-hakim-9103a9146#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lukmanul-hakim-9103a9146#gh-dark-mode-only)
+[linkedin-dark.svg[website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lukmanul-hakim-9103a9146#gh-light-mode-only)
+[linkedin-dark.svg[website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lukmanul-hakim-9103a9146#gh-dark-mode-only)
 
